@@ -8,4 +8,4 @@ The following files are a static website created from a mock-up design. Without 
 ![Comp Picture](http://frontend.turing.io/assets/images/dog-party-js-edition.jpg)
 
 ### My Site
-![My Site](my-site.png)
+![My Site](images/my-site.png)
