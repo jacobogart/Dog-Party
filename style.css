@@ -1,0 +1,185 @@
+body,
+input[type=submit],
+input[type=text],
+button {
+  font-family: "Open Sans", Helvetica, sans-serif;
+  margin: 0px;
+}
+
+nav,
+button {
+  background-color: #75e2e6;
+  border-bottom: 4px solid #048eaa;
+}
+
+#nav-links {
+  float: right;
+  margin: 24px;
+}
+
+#nav-links a {
+  color: black;
+  margin-left: 30px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+
+#nav-links a,
+button,
+form p,
+h3,
+.doggo p,
+input[type=text] {
+  font-size: 22px;
+}
+
+
+#logo {
+  padding: 7px 25px;
+}
+
+#logo,
+input[type=text], 
+button {
+  height: 60px;
+}
+
+main {
+  background-image: url(images/park.jpg);
+  background-position: 0px -250px;
+  background-repeat: no-repeat;
+  background-size: 1440px 1000px; 
+  padding: 0px;
+}
+
+main,
+h3 {
+  color: #ffffff;
+}
+
+#overlay {
+  background: repeating-linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4))
+}
+
+h1 {
+  font-size: 46px;
+}
+
+h1,
+h3 {
+ font-weight: 400;
+}
+
+.center {
+  padding: 45px 5px 10px 5px;
+  width: 550px;
+}
+
+.center,
+#social,
+h1 {
+  margin: 0px auto;
+}
+
+.center p,
+#nav-links a {
+  display: inline;
+}
+
+#some-dogs,
+h2 {
+  font-weight: 800;
+}
+
+.dog-pic {
+  border-radius: 50%;
+  border: 6px solid #048eaa;
+  display: block;
+  margin: 30px auto;
+  width: 230px;
+}
+
+input[type=text], 
+button {
+  border: solid 1px black;
+  font-weight: bold;
+  margin: 10px 0px 20px 0px;
+  width: 500px;
+}
+
+input[type=text], 
+button,
+.button {
+border-radius: 3px;
+}
+
+button {
+  border: 0;
+}
+
+form p {
+  margin-bottom: 40px
+}
+
+article {
+  background-color: #ffffff;
+  padding: 30px 0px 30px 45px;
+}
+
+.doggo {
+  display: inline-block;
+  height: 800px;
+  margin: 0px 75px 20px 0px;
+  position: relative;
+  vertical-align: top;
+  width: 384px;
+}
+
+h2{
+  font-size: 32px;
+}
+
+.button {
+  bottom: 2px;
+  height: 70px;
+  position: absolute;
+}
+
+.button,
+footer {
+  background-color: #048eaa;
+  width: 100%;
+}
+
+h2,
+h3 {
+  text-align: center;
+}
+
+.doggo p,
+#nav-links a,
+button {
+  font-weight: 600;
+}
+
+footer { 
+  height: 200px;
+  padding: 40px 0px 0px 0px; 
+}
+
+#social {
+  height: 100px;
+  width: 300px;
+}
+
+.social-icon {
+padding: 10px;
+}
+
+
+
+
+
+
+
+
